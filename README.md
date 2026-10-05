@@ -15,5 +15,5 @@ Full-Stack Developer building web systems and admin dashboards for businesses.
 - **Clinic Website** – Online booking and patient case tracking with weekly exercise programs
 
 ## 📫 Contact
-- Mostaql: [your profile link]
-- Email: [your email]
+- Mostaql: (https://mostaql.com/u/Ramywebdev)]
+- Email: [ramisamir969@gmail.com]
